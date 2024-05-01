@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Farimah Nourpanah, Sunday class 18 p.m
-//C book Homework, chapter 6, number 3
-
 int main()
 {
     char str[100];
